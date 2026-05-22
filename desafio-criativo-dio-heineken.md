@@ -2,7 +2,7 @@
 
 > **Bootcamp:** Heineken — Inteligência Artificial Aplicada a Vendas  
 > **Módulo:** Simplificando Tarefas e Ganhando Foco com IA no Dia a Dia  
-> **Autor:** [Seu Nome]
+> **Autor:** Mateus Gabriel dos Reis
 
 ---
 
